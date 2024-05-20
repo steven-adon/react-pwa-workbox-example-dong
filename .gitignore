@@ -7,4 +7,3 @@ build/
 node_modules/
 dist/
 .cache
-.env
